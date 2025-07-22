@@ -1,0 +1,5 @@
+﻿*.zip
+node_modules/
+.env
+dist/
+build/
